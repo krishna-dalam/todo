@@ -54,7 +54,7 @@ const Todo = ({ data: todo, onCheckboxClick, onDeleteClick }) => {
           name="trash-can-outline"
           type="material-community"
           size={25}
-          color={colors.red}
+          color={colors.danger}
           onPress={() => onDeleteClick(todo.key)}
         />
       }
@@ -114,7 +114,7 @@ const colors = {
   secondary: "#4ca6ff",
   light: "#ffff99",
   white: "#fff",
-  red: "red",
+  danger: "#cd4746",
 };
 
 const styles = StyleSheet.create({
