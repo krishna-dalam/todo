@@ -12,7 +12,7 @@ Topics that will be discussed
 ## Demo
 ![Todo App Demo](assets/demo.gif)
 
-A complete article is present in following link
+A complete article is present in the following link
 [Todo App Using React Native](https://medium.com/@krishnadalam/todo-app-using-react-native-bd92cca50697)
 
 
