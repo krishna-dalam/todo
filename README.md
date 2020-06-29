@@ -2,7 +2,7 @@
 
 A simple Todo application using React native
 
-Topics that will be covered
+Topics that will be discussed
 
 - React state management
 - React native basics
